@@ -1,0 +1,2 @@
+E:\vue_lianxi\lianxi\lianxi\obj\Debug\lianxi.njsprojAssemblyReference.cache
+E:\vue_lianxi\lianxi\lianxi\bin\Microsoft.NodejsTools.WebRole.dll
